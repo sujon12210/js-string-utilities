@@ -1,0 +1,28 @@
+body{
+  font-family:Arial;
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background:#f8fafc;
+}
+
+.box{
+  background:white;
+  padding:30px;
+  border-radius:8px;
+  width:300px;
+  text-align:center;
+}
+
+input{
+  width:100%;
+  padding:10px;
+  margin-bottom:10px;
+}
+
+button{
+  margin:4px;
+  padding:8px 12px;
+  cursor:pointer;
+}
